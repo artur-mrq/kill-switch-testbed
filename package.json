@@ -1,0 +1,7 @@
+{
+  "name": "kill-switch-testbed",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
